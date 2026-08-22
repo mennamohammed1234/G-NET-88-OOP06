@@ -6,6 +6,6 @@ namespace ConsoleApp8
 {
     internal interface IInsurable
     {
-        decimal CalculateInsurance();
+     public   decimal CalculateInsurance();
     }
 }
